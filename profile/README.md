@@ -1,1 +1,1 @@
-# mcspeedrun.net is a minecraft speedrun server which includes minigames such as speedrun showdown, bingo and more to come
+## [mcspeedrun.net](https://mcspeedrun.net) is a minecraft speedrunning minigame server.
